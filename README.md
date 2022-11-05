@@ -1,5 +1,5 @@
 # BrainFuck-interpreter
-This is an interpreter for BrainFuck written on python, see more information here: https://www.wikiwand.com/en/Brainfuck
+This is an interpreter for BrainFuck written on python, see more information here: https://en.wikipedia.org/wiki/Brainfuck
 
 
 Brainfuck is an esoteric programming language created in 1993 by Urban Müller.
